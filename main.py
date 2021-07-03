@@ -28,4 +28,4 @@ for box in results.splitlines():
 
 
 cv2.imshow("Input", image)
-cv2.waitKey(0)
+cv2.waitKey(0) # this will hold the display of the image
